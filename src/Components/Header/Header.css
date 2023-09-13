@@ -1,0 +1,20 @@
+.header{
+    background-color: burlywood;
+    padding: 1rem 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header h1{
+    font-size:40px;
+    margin: 0;
+}
+.header span{
+    color: crimson;
+}
+
+.header a{
+    text-decoration: none;
+    margin-left: 30px;
+    color: black;
+}
