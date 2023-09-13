@@ -1,0 +1,8 @@
+.meal-container{
+    
+    margin:50px;
+    display: grid;
+    gap: 25px;
+    grid-template-columns: repeat(3, 1fr);
+    align-items: center;
+}

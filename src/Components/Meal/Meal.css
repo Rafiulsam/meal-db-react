@@ -1,0 +1,26 @@
+.meal{
+    border: 1px solid grey;
+    border-radius: 8px;
+    width: 300px;
+    height: 500px;
+    position: relative;
+}
+.meal img{
+    margin: 7px;
+    width: 286px;
+    height: 286px;
+    border-radius: 8px;
+}
+.meal h2 {
+    margin: 0;
+}
+.btn-cart{
+    width: 100%;
+    padding: 10px;
+    border-radius: 0 0 8px 8px ;
+    border: none;
+    background-color: rgba(222, 184, 135, 0.5);
+    position: absolute;
+    bottom: 0;
+    cursor: pointer;
+}
